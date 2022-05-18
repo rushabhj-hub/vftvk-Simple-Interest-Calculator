@@ -5,9 +5,10 @@ h1{color:grey;
    font-family:arial black;}
 .maindiv {background-color:white;
         color:black;
-        width:480px;
+        width:550px;
         margin: auto;
+        margin-top: 50px;
 	padding:20px;
         border-radius: 25px;
-        align:center;}
+        position:center;}
 table {margin-left:100px;}
